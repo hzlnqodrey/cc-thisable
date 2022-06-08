@@ -8,7 +8,9 @@
 1. [Code explanation and references](#code-and-references)
 1. [Google Cloud Platform Infrastructure](#gcp-infrastructure)
   
-  
+<!-- /MarkdownTOC -->
+</details>
+
 <a id="code-and-references"></a>
 ## Code Explanation and References
   
