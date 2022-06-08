@@ -1,5 +1,5 @@
-# Bug Reports
+# Bug Reports API Implementation
 
 ## Table of Content: 
-### 1. Infrastructure - HTML enhanced for web apps!
-### 2. [Ace Editor] - awesome web-based text editor
+### 1. Code Explanation and References {#code-and-references}
+### 2. Google Cloud Platform Infrastructure {#gcp-infrastructure}
