@@ -1,5 +1,26 @@
 # Bug Reports API Implementation
 
 ## Table of Content: 
-### 1. Code Explanation and References (#code-and-references)
-### 2. Google Cloud Platform Infrastructure (#gcp-infrastructure)
+### 1. Code
+Here is [toc 2](#infrastructure)
+### 2. Infrastructure (#gcp-infrastructure)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
