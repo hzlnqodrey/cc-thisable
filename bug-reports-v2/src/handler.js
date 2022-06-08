@@ -1,6 +1,6 @@
 // Referensi [Connect to Firestore with Firebase Admin Config] = https://www.youtube.com/watch?v=7ryA594RAmw
 var admin = require("firebase-admin");
-var serviceAccount = require("./auth/serviceAccountKey.json");
+var serviceAccount = require("../serviceAccountKey.json");
 // NanoID to generate new random ID
 const { nanoid } = require('nanoid')
 const { toIsoString } = require('./modal/function-handler')
