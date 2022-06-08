@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElectricRCAircraftGuy%2FAlfaWiFiAdapterSoftware&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # Bug Reports API Implementation
 
 What is **Bug Report**? A bug report is a specific report that outlines information about what is wrong and needs fixing within App. The report lists reasons, or seen errors, to point out exactly what is viewed as wrong, and also includes a request and/or details for how to address each issue. [References](https://bugherd.com/blog/bug-reporting/#:~:text=A%20bug%20report%20is%20a,how%20to%20address%20each%20issue.)
