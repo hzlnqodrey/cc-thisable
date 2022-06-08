@@ -1,2 +1,4 @@
 node_modules
-_Documentation.txt
+src/auth/
+src/auth/serviceAccountKey.json
+src/auth/secret-key-jwt.js

@@ -4,7 +4,7 @@ const routes = require('./routes')
 // AUTH JWT Dependencies
 const hapiAuthJWT = require('../lib')
 const JWT = require('jsonwebtoken')
-const secret = 'MySecretKey' 
+const secret = require('./auth/secret-key-jwt')
 
 // Create User Validation
 const users = {
