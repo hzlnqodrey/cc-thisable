@@ -1,0 +1,24 @@
+{
+  "name": "bug-reports-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-production": "NODE_ENV=production node ./src/server.js",
+    "start-development": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.2",
+    "@hapi/hapi": "^20.2.2",
+    "firebase-admin": "^10.2.0",
+    "hapi-auth-jwt2": "^10.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
