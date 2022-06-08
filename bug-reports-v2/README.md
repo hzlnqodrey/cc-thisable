@@ -5,7 +5,7 @@ What is **Bug Report**? A bug report is a specific report that outlines informat
 How is that **important**? Bug reporting helps smooth out software, so that it does what it needs to, without frustrating the people using it. Nobody wants to work with software that doesn’t behave as expected. It’s a terrible user experience. [References](https://bugherd.com/blog/bug-reporting/)
 
 
-# Table of Contents
+## Table of Contents
 <details open>
 <summary><b>(click to expand or hide)</b></summary>
 <!-- MarkdownTOC -->
